@@ -1,7 +1,7 @@
 # da_project
 This work has been created to showcase what we have learned this module 
 
- Initial part of the project has been performed by my collegue Dawson and consists of scraping number of youtube views for top 10 most popular pokemon youtubers.
+ Initial part of the project has been performed by my collegue Dawson and consists of scraping number of youtube views for top 10 most popular pokemon youtubers (socialbladescrape.ipynb)
  
  This is a secondary part of the project consists of 3 notebooks, i.e. pokemon_scraping.ipynb, analysis_prep.ipynb, and analysis.ipynb.
 
