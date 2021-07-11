@@ -1,5 +1,4 @@
-# da_project
-
+## The popularity secret behind Pokémon card resale market
 
 ### Goal
 Our Data Analytics team assessed the influence of Pokémon YouTubers on Pokémon card resale. Our **hypothesis** was: the higher the YouYube views are, the higher the resale rate of Pokémon cards is. We web scraped historical data of Pokémon card prices and top 10 Pokémon YouTubers’ views, using Wayback Machine and Python </br>
